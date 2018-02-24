@@ -1,7 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [firmeeについて](README.md)
 * [FAQ](faq.md)
-* [事件ファイル](shi-jian-ji-neng.md)
+* 機能紹介
 
