@@ -38,10 +38,10 @@
 ５　外部ストレージサービスから承認を求められるので、確認して承認します。
 
 【Google Droveの場合】  
-![](https://firmee.kibe.la/attachments/1c5de26e-f3a3-4262-bfeb-3b79f4eba170?thumbnail=true)
+![](/assets/グーグルドライブの場合.png)
 <br>
 【OneDriveの場合】  
-![](https://firmee.kibe.la/attachments/f58e14bf-e008-4154-bf1e-556144f2406f?thumbnail=true)
+![](/assets/ワンドライブの場合.png)
 
 ※2018年3月現在、Microsoft社の仕様により、連携対象は個人アカウントのみとなり、ビジネスアカウント等は連携できません。
 <br>
