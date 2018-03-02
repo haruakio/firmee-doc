@@ -16,15 +16,18 @@
 
 １　事件詳細ページ→「関与弁護士」をクリックします。
 
-![](/assets/関与.png)<br>
+![](/assets/関与.png)
+<br>
 
 ２　関与させたい弁護士のログインアドレスを記入して「登録する」を押します。
 
-![](/assets/関与登録.png)<br>
+![](/assets/関与登録.png)
+<br>
 
 ３　入力されたアドレス宛に確認メールが送られます。
 
-![](https://firmee.kibe.la/attachments/05cdb835-57de-4ee5-81d4-94a3994e9b62?thumbnail=true)<br>
+![](https://firmee.kibe.la/attachments/05cdb835-57de-4ee5-81d4-94a3994e9b62?thumbnail=true)
+<br>
 
 ４　「事件共有を承認する」ボタンを押すと、関与弁護士として追加されます。
 
