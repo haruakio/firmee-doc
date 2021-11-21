@@ -1,39 +1,44 @@
+---
+description: firmeeで登録した予定を外部のカレンダーサービスに反映することができます。
+---
+
 # カレンダー連携
 
-打ち合わせや期日、タスクの締め切りなどが、外部のカレンダーアプリに反映されます。\
-2018年3月現在、対応アプリは、Google社のGoogle Calendarです。 \
 
 
 ## 特徴
 
+* 打ち合わせや期日、タスクの締め切りなどが、外部のカレンダーに反映されます。
+* 2021年11月現在、対応サービスは、Google社のGoogle Calendarと、Microsoft社のOutlookです。&#x20;
 * 事務局アカウントで作成した予定は自動的に担当弁護士の予定に反映されます。
-* トップページにカレンダーを表示できます。
-* 複数カレンダーの表示も可能です。 \
+
 
 
 ## 使い方
 
 １ 歯車ボタン→「プロフィール」をクリックします。
 
-![](../.gitbook/assets/プロフィールボタン.png)
+![](../.gitbook/assets/プロフィールボタン.png)
 
-２ 「編集」をクリックします。 ![](../.gitbook/assets/プロフィール編集.png)
+２ 「編集」をクリックします。 ![](../.gitbook/assets/プロフィール編集.png)
 
-３ 「外部カレンダーサービス連携機能」を選択します。 ![](../.gitbook/assets/カレンダー.png)
+３ 「外部カレンダーサービス連携機能」を選択します。 ![](../.gitbook/assets/カレンダー.png)
 
 \
-&#x20;４ 「Google Calendar」を選択してページ下部の「更新」ボタンを押します。
+&#x20;４ご希望のサービス名を選択してページ下部の「更新」ボタンを押します（下図はGoogle Calendarを選択した場合です）。
 
-![](<../.gitbook/assets/スクリーンショット 2018-03-02 午後4.32.46.png>)
+
+
+![](<../.gitbook/assets/スクリーンショット 2021-11-21 8.47.31.png>)
 
 \
 &#x20;５ Google Calendarに、firmeeで登録した予定が反映されるようになります。
 
-![](../.gitbook/assets/Googleカレンダー表示例.png)
+![](../.gitbook/assets/Googleカレンダー表示例.png)
 
 ## 複数カレンダーの表示
 
-複数のカレンダーをタブで管理してトップページに表示できます。 ※作成方法は[こちら](https://www.slideshare.net/DaisukeIgeta/tutorial-for-calendar)をご参照ください。
+トップページに複数のカレンダーをタブで管理して表示できます。 ※作成方法は[こちら](https://www.slideshare.net/DaisukeIgeta/tutorial-for-calendar)をご参照ください。
 
 ![](../.gitbook/assets/複数表示.png)
 
