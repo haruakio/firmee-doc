@@ -14,6 +14,6 @@
   * [予定（期日と打ち合わせ）](fnc/func-schedule.md)
   * [経費（実費と預かり金）](fnc/func-money.md)
   * [カレンダー連携](fnc/func-calendar.md)
-  * [文書作成機能](fnc/wen-shu-zuo-cheng-ji-neng.md)
+  * [文書作成機能](fnc/documentation.md)
   * [一括インポート機能](fnc/inpto.md)
   * [事務所アカウント](fnc/funcoffice.md)
