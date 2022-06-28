@@ -1,7 +1,7 @@
 # 外部ストレージ連携
 
 事件を作成すると、外部ストレージソフトにフォルダが自動的に作成されます。\
-2018年3月現在、対応ストレージは、Google社のGoogle Drive とMicrosoft社のOneDrive（個人アカウントのみ対応）です。
+対応サービスは、Google社のGoogle Drive 、Microsoft社のOneDrive、Dropbox社のDropboxです。
 
 ## 特徴
 
@@ -32,9 +32,7 @@
 【Google Droveの場合】\
 ![](../.gitbook/assets/グーグルドライブの場合.png) \
 &#x20;【OneDriveの場合】\
-![](../.gitbook/assets/ワンドライブの場合.png)
-
-※2018年3月現在、Microsoft社の仕様により、連携対象は個人アカウントのみとなり、ビジネスアカウント等は連携できません。 \
+![](../.gitbook/assets/ワンドライブの場合.png)\
 
 
 ６ 連携に成功すると、事件詳細ページに「添付ファイル」ボタンが表示されます。
