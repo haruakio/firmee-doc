@@ -13,6 +13,7 @@
   * [タスク](fnc/func-task.md)
   * [予定（期日と打ち合わせ）](fnc/func-schedule.md)
   * [経費（実費と預かり金）](fnc/func-money.md)
+  * [売上](fnc/mai-shang.md)
   * [カレンダー連携](fnc/func-calendar.md)
   * [文書作成機能](fnc/documentation.md)
   * [一括インポート機能](fnc/inpto.md)
