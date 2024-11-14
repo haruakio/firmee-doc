@@ -1,12 +1,4 @@
----
-description: 連携
----
-
 # UnivaPay連携
-
-## UnivaPay連携
-
-
 
 firmeeと株式会社ユニヴァ・ペイキャストの「UnivaPay」との連携により、弁護士業務の売上管理と決済プロセスが大幅に効率化されます。
 
