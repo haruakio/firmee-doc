@@ -18,3 +18,4 @@
   * [文書作成機能](fnc/documentation.md)
   * [一括インポート機能](fnc/inpto.md)
   * [事務所アカウント](fnc/funcoffice.md)
+  * [UnivaPay連携](fnc/univapay-lian-xie.md)
