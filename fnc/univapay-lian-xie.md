@@ -194,7 +194,7 @@ description: ※2024/11/18サービス開始予定
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXerSkm8Wah12ktapoJy02k6FXpHSzf23s4DhsWV8Sp5kYsiaavBZfmfsjOZh4fhStqt_DjGppI5i025T46Ft15oNO7bCXH6VCPd-q4MfwB6bxzPdmlwgdh3oiw85JwAVKATnKbtCotwQUkpL5U8Ssq96Td2?key=fE_DWkJXP5uB7d6mPgj6ig" alt=""><figcaption></figcaption></figure>
 
-８　依頼者によってカード決済が完了するか、銀行振込が実際になされると、firmee内の当該売上情報に「入金日」が登録されます。なお、作成日が登録されていない場合には、URL作成日が「作成日」として登録されます。
+８　依頼者によってカード決済が完了するか、銀行振込が実際になされると、firmee内の当該売上情報に「入金日」が登録されます。なお、発生日が登録されていない場合には、URL作成日が「発生日」として登録されます。
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfS5XbZ60_d98shoTPZRZW4UcFNQCA1JupY2Yot3lDyZel-yZN2VfG3SHuGa18rQWiWFgL12uMqGEObBTI7yCTSVjjgjbL75ljMYlqFt9yKe9z_Qm7CN-Re6JbbWvpNIA2yIywIUB46EwC11edU7la7wcE?key=fE_DWkJXP5uB7d6mPgj6ig" alt=""><figcaption></figcaption></figure>
 
