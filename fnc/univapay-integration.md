@@ -1,5 +1,5 @@
 ---
-description: ※2024/11/18サービス開始予定
+description: ※2024/11/18サービス開始
 ---
 
 # UnivaPay連携
