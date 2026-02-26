@@ -33,11 +33,9 @@ description: ※2024/11/18サービス開始
 
 ## 連携の設定方法
 
-１　[こちらのウェブサイト](https://r-agent.upc-app.com/firmeeplan/)からユニヴァ・ペイキャスト社の審査を申請します。審査はインターネットのみで完結します（審査に3〜4週間ほど要します）。\
+１　[こちらのウェブサイト](https://r-agent.upc-app.com/firmeeplan/)からユニヴァ・ペイキャスト社の審査を申請します。審査はインターネットのみで完結します（審査に3〜4週間ほど要します）。<br>
 
-
-２　審査が完了すると、UnivaPayサポートからログイン情報がメールで送られてきます。ログイン情報は以下のようなメールアドレスとパスワードとなります。\
-
+２　審査が完了すると、UnivaPayサポートからログイン情報がメールで送られてきます。ログイン情報は以下のようなメールアドレスとパスワードとなります。<br>
 
 管理画面ログイン情報
 
@@ -68,8 +66,7 @@ description: ※2024/11/18サービス開始
 * 「利用店舗を指定する」にチェックを付け、店舗を選択します。店舗は多くの場合、ユーザー様ご自身の弁護士名となっています。
 * 「モード」で「本番」をクリックします
 * 「ドメイン」の追加ボタンをクリックし、表示された欄にfirmee.comと入力します
-* 最後に「作成」ボタンをクリックします\
-
+* 最後に「作成」ボタンをクリックします<br>
 *
 
     <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeW2tsBenhEtK0z6S9AKJ_83eRBwlyo8KFIGmTJCQMabanO5N5tGYap3zYIQGGwLuBLfb8ZoqqzX3j1vRHufEyr_6WdDyhApJHPKmikbw3wm0LVpy9UXWTKGxwH405kh3XnTuCedg?key=fE_DWkJXP5uB7d6mPgj6ig" alt=""><figcaption></figcaption></figure>
@@ -78,11 +75,9 @@ description: ※2024/11/18サービス開始
 
 （３）トークンとシークレットが表示されるので、シークレットは保存しておいてください。
 
-\
+<br>
 
-
-（４）サイドバーにある「店舗」をクリックします。\
-
+（４）サイドバーにある「店舗」をクリックします。<br>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe7omWwP4WszKbuSRL2XTHw1Zzq9t91WTJWQAVwtMtZiKcVQ42FtxdiOikjQn7UmlsHTudCMUh16d4GL38EC0hhFmlblfmKdn5PAAJAhYwtCRpplf37rO_ruko8Gj-_qOckmlVe?key=fE_DWkJXP5uB7d6mPgj6ig" alt=""><figcaption></figcaption></figure>
 
@@ -118,8 +113,7 @@ description: ※2024/11/18サービス開始
 
 * 金額は空欄にしておいてください
 * CVV認証はカード裏の3\~4桁の数字認証です。デフォルトで選択されており、そのままにすることをおすすめします
-* クレジットカードによる分割払いを認める場合は分割払い欄にチェックを入れてください\
-
+* クレジットカードによる分割払いを認める場合は分割払い欄にチェックを入れてください<br>
 
 最後に、画面下に表示されているURLをコピーしてください。コピーに際しては、「URL」の右側のコピーアイコンからコピーするようご注意ください。
 
@@ -127,8 +121,7 @@ description: ※2024/11/18サービス開始
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeVKYGoRf_flwj9ZQN2of0lLtT7I7oQspWjeq0RPzw60AW2x6fjwoxP41ZhJeBi4bvuh1-_62i_HLyRrD6_w8xm46HQk9F0hj8k2RNeFxNtPFWoDaoVaDhgsIuxgdzXhyxvokVfyQ?key=fE_DWkJXP5uB7d6mPgj6ig" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 （４）firmeeの画面に戻り、リンクフォームURL欄に取得したURLを貼り付け、登録するをクリックします。
 
@@ -146,8 +139,7 @@ description: ※2024/11/18サービス開始
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcyVB45qk32NUbNfMR3bh3hqqpv75g0bG0gMe_BEGMG9nCliGhhRPWnUn7o5fbMvD6BOAIbos4GidBOCOhVYnem0Bd81Yc_Yr23bGHp_lMRTx-qCXR2VvQEyJfKPHrXbdATYwQFeA?key=fE_DWkJXP5uB7d6mPgj6ig" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 以上で連携は完了です。
 
@@ -202,12 +194,9 @@ description: ※2024/11/18サービス開始
 \
 \
 \
-firmee連携特典として、圧倒的低価格でクレジットカード利用を導入できます。お気軽にご活用ください。\
+firmee連携特典として、圧倒的低価格でクレジットカード利用を導入できます。お気軽にご活用ください。<br>
 
+<br>
 
-\
-
-
-\
-
+<br>
 
