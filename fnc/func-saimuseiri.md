@@ -8,6 +8,8 @@
 
 事件の新規作成時に「債務整理」タイプを選択すると、通常の事件情報に加えて**債権者情報**の登録欄が表示されます。
 
+<figure><img src="../.gitbook/assets/債務整理_編集画面.png" alt=""><figcaption></figcaption></figure>
+
 #### 登録できる情報
 
 * **事件名**: 事件を識別するための名称（例: 債務整理）
@@ -29,6 +31,8 @@
 ### 事件の詳細画面
 
 事件の詳細画面では、債務者情報と債権者情報をまとめて確認できます。
+
+<figure><img src="../.gitbook/assets/債務整理_詳細画面.png" alt=""><figcaption></figcaption></figure>
 
 #### 事件情報
 
