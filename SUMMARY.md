@@ -21,4 +21,5 @@
   * [UnivaPay連携](fnc/univapay-integration.md)
   * [後見事件管理](fnc/hou-jian-shi-jian-guan-li.md)
   * [AIによる通帳OCRインポート機能](fnc/ainiyoruocrinpto.md)
+  * [債務整理タイプの事件管理](fnc/func-saimuseiri.md)
   * [書面アップロードによるAI自動事件登録](fnc/ai-auto-matter-registration.md)
