@@ -2,7 +2,7 @@
 
 * [firmeeについて](README.md)
 * [FAQ](faq.md)
-* [機能紹介](fnc/README.md)
+* [機能紹介【法律事務所版】](fnc/README.md)
   * [事件ファイル](fnc/func_matter.md)
   * [連絡先](fnc/func-contacts.md)
   * [秘書アカウント](fnc/func-secretary.md)
