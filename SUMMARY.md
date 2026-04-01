@@ -24,7 +24,6 @@
   * [UnivaPay連携](fnc/univapay-integration.md)
   * [後見事件管理](fnc/hou-jian-shi-jian-guan-li.md)
   * [債務整理タイプの事件管理](fnc/func-saimuseiri.md)
-  * [書面アップロードによるAI自動事件登録](fnc/ai-auto-matter-registration.md)
 * [機能紹介【企業法務版】](ji-neng-shao-jie-qi-ye-fa-wu-ban/README.md)
   * [１　事件ファイル](ji-neng-shao-jie-qi-ye-fa-wu-ban/fairu.md)
   * [２　連絡先](ji-neng-shao-jie-qi-ye-fa-wu-ban/lian-luo-xian.md)
