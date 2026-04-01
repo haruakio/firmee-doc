@@ -14,11 +14,21 @@ AI入力補助機能は、訴状や申立書、名刺、請求書などの書類
 
 #### 使い方
 
-1. 事件の新規作成画面を開きます。
-2. 「AIで入力」ボタンをクリックします。
-3. 訴状や申立書などの書類ファイルをアップロードします。
-4. AIが書類を解析し、各項目に情報を自動入力します。
-5. 入力された内容を確認・修正し、保存します。
+* 事件の新規作成画面を開きます。
+* 「書類から事件登録」ボタンをクリックします。
+
+<figure><img src="../.gitbook/assets/https---files.gitbook.com-v0-b-gitbook-x-prod.appspot.com-o-spaces%2F-M51BsuVIoT7ULyG6Qas%2Fuploads%2F9saeNSfCaPv0sAoZmKbn%2FSCR-20260226-ufxv.pngalt=media&#x26;token=0d332016-709e-4a05-9d8d-55efbcc9bc00.avif" alt=""><figcaption></figcaption></figure>
+
+
+
+* 訴状や申立書などの書類ファイルをアップロードします。
+* AIが書類を解析し、各項目に情報を自動入力します。
+
+<figure><img src="../.gitbook/assets/https---files.gitbook.com-v0-b-gitbook-x-prod.appspot.com-o-spaces%2F-M51BsuVIoT7ULyG6Qas%2Fuploads%2F3q8jsINOdPl88JeOHcoG%2FSCR-20260227-gvlh.pngalt=media&#x26;token=d016f7d0-58e8-4aaa-aec7-30f3a95fecdd.webp" alt=""><figcaption></figcaption></figure>
+
+
+
+* 入力された内容を確認・修正し、保存します。
 
 #### 自動入力される項目
 
