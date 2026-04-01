@@ -8,6 +8,8 @@
   * [秘書アカウント](fnc/func-secretary.md)
   * [コンフリクトチェック](fnc/func-conflict.md)
   * [関与弁護士](fnc/af.md)
+  * [AI出力連携（MCPサーバ連携）](fnc/aimcpsba.md)
+  * [AI連携（入力補助）](fnc/ai-lian-xie-ru-li-bu-zhu.md)
   * [外部ストレージ連携](fnc/func-storage.md)
   * [メモ](fnc/func-memo.md)
   * [タスク](fnc/func-task.md)
