@@ -1,7 +1,7 @@
 # 外部ストレージ連携
 
 事件を作成すると、外部ストレージソフトにフォルダが自動的に作成されます。\
-対応サービスは、Google社のGoogle Drive 、Microsoft社のOneDrive、Dropbox社のDropboxです。
+対応サービスは、Google社のGoogle Drive、Microsoft社のOneDrive、Dropbox社のDropbox、Box社のBoxです。
 
 ## 特徴
 

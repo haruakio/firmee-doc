@@ -11,6 +11,7 @@
   * [AI出力連携（MCPサーバ連携）](fnc/ai-mcp-server.md)
   * [AI連携（入力補助）](fnc/ai-input-support.md)
   * [AIによる通帳OCRインポート機能](fnc/ai-ocr-import.md)
+  * [AIサポートチャット](fnc/support-chat.md)
   * [外部ストレージ連携](fnc/func-storage.md)
   * [メモ](fnc/func-memo.md)
   * [タスク](fnc/func-task.md)
