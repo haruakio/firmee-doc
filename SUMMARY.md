@@ -20,6 +20,7 @@
   * [売上](fnc/func-earning.md)
   * [領収書](fnc/func-receipt.md)
   * [カレンダー連携](fnc/func-calendar.md)
+  * [Slack連携](fnc/slack-integration.md)
   * [文書作成機能](fnc/documentation.md)
   * [一括インポート機能](fnc/func-import.md)
   * [事務所アカウント](fnc/func-group.md)
