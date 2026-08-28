@@ -18,6 +18,8 @@ firmeeとChatworkを連携すると、事件ごとのChatworkルームを事件�
 
 １ 事件詳細ページを開き、「新規」メニューから「Chatworkルーム」を選びます。
 
+![事件詳細ページの「新規」メニューに表示された「Chatworkルーム」](../.gitbook/assets/chatwork-room-new-menu.png)
+
 {% hint style="info" %}
 「Chatworkルーム」は、その事件の主任弁護士がChatwork連携を済ませている場合に表示されます。表示されないときは、主任弁護士のプロフィールページでChatwork連携をご確認ください。
 {% endhint %}
