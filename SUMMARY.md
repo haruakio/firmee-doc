@@ -29,6 +29,7 @@
   * [後見事件管理](fnc/func-kouken.md)
   * [債務整理タイプの事件管理](fnc/func-saimuseiri.md)
   * [破産タイプの事件管理](fnc/func-hasan.md)
+  * [オフライン利用（アプリのインストール）](fnc/offline-pwa.md)
 * [機能紹介【企業法務版】](legal-dept/README.md)
   * [１　事件ファイル](legal-dept/fairu.md)
   * [２　連絡先](legal-dept/lian-luo-xian.md)
