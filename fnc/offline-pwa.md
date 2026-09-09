@@ -10,7 +10,7 @@ firmeeはPWA（Progressive Web App）に対応しています。スマートフ�
 
 追加されたアイコンからfirmeeを起動すると、ブラウザのアドレスバーがない画面で利用できます。
 
-{% embed url="https://firmee-images.s3.ap-northeast-1.amazonaws.com/docs/offline-pwa-install.mp4" %}
+{% embed url="https://firmee-images.s3.ap-northeast-1.amazonaws.com/docs/offline-pwa-install-wide.mp4" %}
 iPhoneでホーム画面に追加し、機内モードでも事件が表示されるまで
 {% endembed %}
 
@@ -43,7 +43,7 @@ iPhoneでホーム画面に追加し、機内モードでも事件が表示さ�
 * 送信待ちの予定は、事件詳細の予定欄に「送信待ち」として表示され、その場で破棄することもできます。
 * 添付ファイルを付けた予定は、オンライン接続時に登録してください。
 
-{% embed url="https://firmee-images.s3.ap-northeast-1.amazonaws.com/docs/offline-pwa-meeting.mp4" %}
+{% embed url="https://firmee-images.s3.ap-northeast-1.amazonaws.com/docs/offline-pwa-meeting-wide.mp4" %}
 オフラインのまま打ち合わせを登録し、オンライン復帰後に自動で登録されるまで
 {% endembed %}
 
