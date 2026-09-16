@@ -38,7 +38,7 @@ Gemini：https://docs.google.com/document/d/1QBJXFgo9aa0dONScjJb7BbOwfiGZQ7a8k4r
 
 設定の流れは動画でもご覧いただけます。
 
-{% embed url="https://www.youtube.com/watch?v=PH1e8LpGIYc" %}
+{% embed url="https://www.youtube.com/watch?v=6sW_IZjnyrw" %}
 Claude（Claude Codeアプリ）との連携手順
 {% endembed %}
 
