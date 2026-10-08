@@ -18,19 +18,26 @@ firmeeは、Claude・ChatGPT・Geminiなどの生成AIサービスと連携し�
 
 Claude・ChatGPT・Geminiのいずれかでアカウントを作成します。既にお持ちであればそのままお使いいただけます。
 
-#### ステップ2：firmeeでAI連携を有効化
+#### ステップ2：AIサービスからfirmeeに接続し、アクセスを許可
 
-Claudeであれば設定画面からワンクリックでAI連携機能をONにします。オプトイン方式のため、会員が明示的にONにしない限り、データは一切AIサービスに送信されません。
+AIサービスからfirmeeに接続し、firmeeの許可画面でアクセス権限を確認して承認します。
 
-AIサービス側でfirmeeを追加するときは、MCPサーバーのURLに次を設定してください。
+**Claudeの場合**は、コネクタの一覧からfirmeeを検索して接続できます。MCPサーバーのURLを手入力する必要はありません。
+
+1. Claudeの「カスタマイズ」→「コネクタ」→「探索」を開き、「firmee」を検索します。
+2. firmeeのコネクタページで「Claudeに接続」をクリックします。
+3. firmeeの「アクセス許可の確認」画面で権限を確認し、「許可する」をクリックします。firmeeへのサインインが必要です。
+4. Claude側の表示が「接続済み」になれば、接続は完了です。
+
+firmeeはClaudeのコミュニティコネクタとして掲載されています。
+
+**ChatGPT・Geminiの場合**は、AIサービス側でfirmeeを追加するときに、MCPサーバーのURLに次を設定してください。
 
 ```
 https://app.firmee.com/mcp
 ```
 
-各サービスの連携方法の詳細はこちらをご参照ください。
-
-Claude：https://drive.google.com/file/d/1BevMn6uJubxFAg1mSIiyi5jxPphKVWtC/view?usp=sharing&#x20;
+ChatGPT・Geminiの連携方法の詳細はこちらをご参照ください。
 
 ChatGPT：https://drive.google.com/file/d/1SqMNKmYc0cDdMPiu-kg\_SyeZ1C91wRdf/view?usp=drive\_link&#x20;
 
@@ -38,8 +45,8 @@ Gemini：https://docs.google.com/document/d/1QBJXFgo9aa0dONScjJb7BbOwfiGZQ7a8k4r
 
 設定の流れは動画でもご覧いただけます。
 
-{% embed url="https://www.youtube.com/watch?v=6sW_IZjnyrw" %}
-Claude（Claude Codeアプリ）との連携手順
+{% embed url="https://youtube.com/shorts/vF-P7BazEPs?feature=share" %}
+Claudeとの連携手順（コネクタの検索から接続）
 {% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=dSAvqlaWOzo" %}
@@ -84,10 +91,6 @@ AIに頼むだけで、次のデータをfirmeeに新しく登録できます。
 * **金額の計算は画面と同じ**：経費・売上の消費税・源泉徴収・端数処理は、firmeeの画面で入力したときと同じ計算で登録されます。
 * **レシートの読み取りはAI側**：日付・金額・支払先はお使いのAIが画像から読み取ってfirmeeに渡します。添付できるファイルはJPEG・PNG・GIF・WebP・PDF（3MBまで）です。登録後は内容をfirmeeの画面でご確認ください。
 * **経費の支払元**：指定しない場合は事件の主任弁護士が支払元になります。
-
-#### すでにAI連携をお使いの方へ
-
-すでに接続しているコネクタのままでは、登録機能は使えません。AIサービス側でfirmeeのコネクタを一度削除し、MCPサーバーのURL（https://app.firmee.com/mcp）で追加し直してから、firmeeの許可画面で「追加（変更・削除はできません）」の権限を許可してください。
 
 ### セキュリティ
 
