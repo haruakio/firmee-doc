@@ -31,6 +31,10 @@ AIサービスからfirmeeに接続し、firmeeの許可画面でアクセス権
 
 firmeeはClaudeのコミュニティコネクタとして掲載されています。
 
+{% embed url="https://youtube.com/shorts/vF-P7BazEPs?feature=share" %}
+Claudeとの連携手順（コネクタの検索から接続）
+{% endembed %}
+
 **ChatGPT・Geminiの場合**は、AIサービス側でfirmeeを追加するときに、MCPサーバーのURLに次を設定してください。
 
 ```
@@ -44,10 +48,6 @@ ChatGPT：https://drive.google.com/file/d/1SqMNKmYc0cDdMPiu-kg\_SyeZ1C91wRdf/vie
 Gemini：https://docs.google.com/document/d/1QBJXFgo9aa0dONScjJb7BbOwfiGZQ7a8k4rlGYJ2iwc/edit?usp=drive\_link
 
 設定の流れは動画でもご覧いただけます。
-
-{% embed url="https://youtube.com/shorts/vF-P7BazEPs?feature=share" %}
-Claudeとの連携手順（コネクタの検索から接続）
-{% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=dSAvqlaWOzo" %}
 ChatGPTとの連携手順
