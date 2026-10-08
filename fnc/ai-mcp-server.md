@@ -31,7 +31,7 @@ AIサービスからfirmeeに接続し、firmeeの許可画面でアクセス権
 
 firmeeはClaudeのコミュニティコネクタとして掲載されています。
 
-{% embed url="https://youtube.com/shorts/vF-P7BazEPs?feature=share" %}
+{% embed url="https://www.youtube.com/watch?v=vF-P7BazEPs" %}
 Claudeとの連携手順（コネクタの検索から接続）
 {% endembed %}
 
