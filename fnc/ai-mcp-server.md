@@ -18,19 +18,26 @@ firmeeは、Claude・ChatGPT・Geminiなどの生成AIサービスと連携し�
 
 Claude・ChatGPT・Geminiのいずれかでアカウントを作成します。既にお持ちであればそのままお使いいただけます。
 
-#### ステップ2：firmeeでAI連携を有効化
+#### ステップ2：AIサービスからfirmeeに接続し、アクセスを許可
 
-Claudeであれば設定画面からワンクリックでAI連携機能をONにします。オプトイン方式のため、会員が明示的にONにしない限り、データは一切AIサービスに送信されません。
+AIサービスからfirmeeに接続し、firmeeの許可画面でアクセス権限を確認して承認します。
 
-AIサービス側でfirmeeを追加するときは、MCPサーバーのURLに次を設定してください。
+**Claudeの場合**は、コネクタの一覧からfirmeeを検索して接続できます。MCPサーバーのURLを手入力する必要はありません。
+
+1. Claudeの「カスタマイズ」→「コネクタ」→「探索」を開き、「firmee」を検索します。
+2. firmeeのコネクタページで「Claudeに接続」をクリックします。
+3. firmeeの「アクセス許可の確認」画面で権限を確認し、「許可する」をクリックします。firmeeへのサインインが必要です。データを新しく登録する場合は、「追加（変更・削除はできません）」の権限も確認してください。
+4. Claude側の表示が「接続済み」になれば、接続は完了です。
+
+firmeeはClaudeのコミュニティコネクタとして掲載されています。Anthropicによる認証を受けたコネクタではありません。
+
+**ChatGPT・Geminiの場合**は、AIサービス側でfirmeeを追加するときに、MCPサーバーのURLに次を設定してください。
 
 ```
 https://app.firmee.com/mcp
 ```
 
-各サービスの連携方法の詳細はこちらをご参照ください。
-
-Claude：https://drive.google.com/file/d/1BevMn6uJubxFAg1mSIiyi5jxPphKVWtC/view?usp=sharing&#x20;
+ChatGPT・Geminiの連携方法の詳細はこちらをご参照ください。
 
 ChatGPT：https://drive.google.com/file/d/1SqMNKmYc0cDdMPiu-kg\_SyeZ1C91wRdf/view?usp=drive\_link&#x20;
 
@@ -38,8 +45,8 @@ Gemini：https://docs.google.com/document/d/1QBJXFgo9aa0dONScjJb7BbOwfiGZQ7a8k4r
 
 設定の流れは動画でもご覧いただけます。
 
-{% embed url="https://www.youtube.com/watch?v=6sW_IZjnyrw" %}
-Claude（Claude Codeアプリ）との連携手順
+{% embed url="https://youtube.com/shorts/vF-P7BazEPs?feature=share" %}
+Claudeとの連携手順（コネクタの検索から接続）
 {% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=dSAvqlaWOzo" %}
@@ -87,13 +94,15 @@ AIに頼むだけで、次のデータをfirmeeに新しく登録できます。
 
 #### すでにAI連携をお使いの方へ
 
-すでに接続しているコネクタのままでは、登録機能は使えません。AIサービス側でfirmeeのコネクタを一度削除し、MCPサーバーのURL（https://app.firmee.com/mcp）で追加し直してから、firmeeの許可画面で「追加（変更・削除はできません）」の権限を許可してください。
+**Claudeをお使いの方**：以前からfirmeeと連携していてデータの追加機能が使えない場合は、Claude側でfirmeeのコネクタを一度削除し、「カスタマイズ」→「コネクタ」→「探索」でfirmeeを検索して追加し直してください。firmeeの許可画面で「追加（変更・削除はできません）」の権限を確認して許可してください。追加権限が表示されない場合や、許可しても登録できない場合は、firmeeサポートへお問い合わせください。
+
+**ChatGPT・Geminiをお使いの方**：すでに接続しているコネクタのままでは、登録機能は使えません。AIサービス側でfirmeeのコネクタを一度削除し、MCPサーバーのURL（https://app.firmee.com/mcp）で追加し直してから、firmeeの許可画面で「追加（変更・削除はできません）」の権限を許可してください。
 
 ### セキュリティ
 
 firmeeのAI連携は、法律事務所の機密データの保護を最優先に設計されています。
 
-* **オプトイン方式**：会員が明示的にONにしない限り、データは一切送信されません。
+* **オプトイン方式**：AIサービスからのアクセスには、firmeeの許可画面でご自身がアクセス権限を確認し、承認する必要があります。
 * **OAuth認証制御**：いつでも認証を取り消してAI連携を停止できます。
 * **SSL/TLS暗号化**：通信はすべて暗号化され、安全にデータを転送します。
 * **API経由のみ**：限定されたエンドポイントのみを使用。データベースへの直接アクセスはありません。
