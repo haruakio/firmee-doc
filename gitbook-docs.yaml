@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: firmee機能紹介
+  structure:
+    - type: space
+      key: space-1
+      title: firmee機能紹介
+      path: firmee-doc
+      default: true
+      content:
+        directory: ./
