@@ -129,19 +129,35 @@ description: ※2024/11/18サービス開始
 
 
 
-（５）firmeeのページをそのままにして、改めてUnivaPayの管理画面に戻ります。サイドバーの「ウェブフック」をクリックして、「新規作成」ボタンをクリックします。
+（５）登録するとプロフィール画面に戻ります。もう一度「外部システム連携」の「UnivaPay（決済システム）連携」をクリックすると、画面の下に「ウェブフックの設定」として「ウェブフックの URL」と「認証トークン」が表示されます。このページを開いたまま、改めてUnivaPayの管理画面に戻ります。サイドバーの「ウェブフック」をクリックして、「新規作成」ボタンをクリックします。
+
+（注）認証トークンは、ご本人がログインしているときだけ表示されます。決済の通知が本当にUnivaPayから届いたものかを確かめるための値ですので、他人に教えないでください。
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfiGoz0NZhUnSJANAM-CnPJBbv9uHBy3HsaUmq7FXJ50R3LxAeoRSBC_d8YnmoUoIwKxqfox6jF5boqzEv4-fF-a_o1R35w0ZbYL7_eLzQQ8I9NoZBCmh0km9pwCp9xQo-p6uKm?key=fE_DWkJXP5uB7d6mPgj6ig" alt=""><figcaption></figcaption></figure>
 
 
 
-（６）URL欄に　[https://app.firmee.com/payments/webhook](https://app.firmee.com/payments/webhook)　と入力し、【課金情報／ステータスの更新】と【課金】にチェックを入れ、「作成」ボタンをクリックします。このウェブフック設定により、決済が完了した際にfirmeeに通知が送られ、入金日が自動的に登録されます。
+（６）次のように設定し、「作成」ボタンをクリックします。このウェブフック設定により、決済が完了した際にfirmeeに通知が送られ、入金日が自動的に登録されます。
+
+* URL欄に　[https://app.firmee.com/payments/webhook](https://app.firmee.com/payments/webhook)　と入力します
+* 「認証トークン」欄に、firmeeの画面に表示された認証トークンをそのまま貼り付けます。前後に空白や「Bearer」などの文字を付けないでください
+* 【課金情報／ステータスの更新】と【課金】にチェックを入れます
+
+（注）認証トークンが設定されていない、または一致しないウェブフックの通知は、firmeeでは受け付けません。この場合、依頼者が支払いを済ませても入金日が登録されませんのでご注意ください。
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcyVB45qk32NUbNfMR3bh3hqqpv75g0bG0gMe_BEGMG9nCliGhhRPWnUn7o5fbMvD6BOAIbos4GidBOCOhVYnem0Bd81Yc_Yr23bGHp_lMRTx-qCXR2VvQEyJfKPHrXbdATYwQFeA?key=fE_DWkJXP5uB7d6mPgj6ig" alt=""><figcaption></figcaption></figure>
 
 <br>
 
 以上で連携は完了です。
+
+### 認証トークンを作り直すとき
+
+認証トークンが他人に知られたおそれがある場合は、firmeeの「UnivaPay（決済システム）連携」の画面で「認証トークンを作り直す」をクリックしてください。作り直すと、それまでの認証トークンでは入金が登録されなくなります。UnivaPayの管理画面でウェブフックを開き、「認証トークン」欄を新しい値に変えてください。
+
+### 2026年11月より前に連携を設定した方へ
+
+2026年11月から、ウェブフックの通知を認証トークンで確かめるようになりました。それより前に連携を設定した方は、上の（５）の手順でfirmeeの画面に表示される認証トークンを確かめ、UnivaPayの管理画面の既存のウェブフックの「認証トークン」欄に設定してください。設定するまでは、決済が完了しても入金日が自動で登録されません。
 
 
 
