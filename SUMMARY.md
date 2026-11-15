@@ -20,6 +20,7 @@
   * [売上](fnc/func-earning.md)
   * [領収書](fnc/func-receipt.md)
   * [カレンダー連携](fnc/func-calendar.md)
+  * [会議室の予約（Google Workspace）](fnc/meeting-room.md)
   * [Chatwork連携](fnc/chatwork-integration.md)
   * [Slack連携](fnc/slack-integration.md)
   * [文書作成機能](fnc/documentation.md)
