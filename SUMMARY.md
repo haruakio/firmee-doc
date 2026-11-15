@@ -16,6 +16,7 @@
   * [メモ](fnc/func-memo.md)
   * [タスク](fnc/func-task.md)
   * [予定（期日と打ち合わせ）](fnc/func-schedule.md)
+  * [会議室の予約](fnc/meeting-room.md)
   * [経費（実費と預かり金）](fnc/func-money.md)
   * [売上](fnc/func-earning.md)
   * [領収書](fnc/func-receipt.md)
